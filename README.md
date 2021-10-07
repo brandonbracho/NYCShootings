@@ -1,4 +1,5 @@
 # NYCShootings
+For a dynamic view of this Jupyter Notebok please visit http://nbviewer.org/github/brandonbracho/NYCShootings/blob/main/ShootingsNYC%281%29.ipynb
 ## Introduction 
 This project is part EDA (Exploratory Data Analysis) and part predcitive modeling using the Historic Shooting Incidents and Year to Date Shooting Incidents dataset from NYC's Open Data site. Inspiration for this project ensued in light of the media frenzy that is surrounding the rise of gun violence in New York City. Do the numbers match the hype? Questions that are addressed within the project include:
 - What are the overall trends in shootings, along with yearly, monthly and hours trends.
