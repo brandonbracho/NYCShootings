@@ -20,13 +20,13 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^2]
 ![Image](/images/dataset%20shape.png)
 [^3]
-![Image](/images/dataset%20shape.png)
-[^4]
 ![Image](/images/missing%20data.png)
-[^5]
+[^4]
 
 [^1]: First five rows of data are being printed. 
 [^2]: The dataset type is being shown here along with the count of non-null values. The dataset is composed of mixed types with the majority being strings. 
+[^3]: The dataset is composed of 24470 rows and 18 columns. 
+[^4]: The dataset is contains very little missing data overall, with every column having under 1% of data being composed of missing values. 
 
 
 
