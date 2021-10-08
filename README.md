@@ -25,6 +25,10 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 ![Image](/images/missing%20data.png)
 [^5]
 
+[^1]: First five rows of data are being printed. 
+[^2]: The dataset type is being shown here along with the count of non-null values. The dataset is composed of mixed types with the majority being strings. 
+
+
 
 
 
