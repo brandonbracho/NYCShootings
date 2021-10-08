@@ -46,6 +46,17 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 ![Image](/images/shootingsbymonth.png)
 [^12]
 
+[^5]: There were a total of 432 days without shootings in NYC between the years of 2006 - 2021.
+[^6]: Boxplot of distribution of number of shootings per day. 
+[^7]: KDE distribution plot of shootings per day.
+[^8]: Creation of time-dependent features, such as Year, Hour, and Month. 
+[^9]: Total shootings aggregated by day of week. 
+[^10]: Total shootings aggregated by hour.
+[^11]: Total shootings aggreagted by year.
+[^12]: Total shootings aggregated by month. 
+
+
+
 
 
 
