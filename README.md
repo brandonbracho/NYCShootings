@@ -28,6 +28,32 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^3]: The dataset is composed of 24470 rows and 18 columns. 
 [^4]: The dataset is contains very little missing data overall, with every column having under 1% of data being composed of missing values. 
 
+## Time Series Aggregations of Shootings 
+![Image](/images/days%20w/o%20shootings.png)
+[^5]
+![Image](/images/dataset%20boxplot.png)
+[^6]
+![Image](/images/dataset%20kde.png)
+[^7]
+![Image](/images/feature%creation.png)
+[^8]
+![Image](/images/shootingsbydayofweek.png)
+[^9]
+![Image](/images/shootingsbyhour.png)
+[^10]
+![Image](/images/shootingsbyyear.png)
+[^11]
+![Image](/images/shootingsbymonth.png)
+[^12]
+
+
+
+
+
+
+
+
+
 
 
 
