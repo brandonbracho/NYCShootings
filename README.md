@@ -7,5 +7,7 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 - Where do most shootings in NYC occur?
 - What are trends seen in the demographics of perpetrators of shootings along with the victims?
 - How many total shootings might NYC see in the year of 2021?
-
-
+# Packages and Resources Used
+- **Python Version:** 3.7
+- **Packages/Modules:** pandas, numpy, sklearn, folium, datetime, matplotlib, seaborn
+- **Data Sources:** https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8 (Historic Shootings), https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8 (YTD Shootings), https://www.wunderground.com/ (Historical Weather Data)
