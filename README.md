@@ -16,6 +16,15 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 ## Overview of Dataset
 ![Image](/images/dataset.png)
 [^1]
-
 ![Image](/images/dataset%20type.png) 
+[^2]
+![Image](/images/dataset%20shape.png)
+[^3]
+![Image](/images/dataset%20shape.png)
+[^4]
+![Image](/images/missing%20data.png)
+[^5]
+
+
+
 
