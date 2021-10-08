@@ -11,3 +11,6 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 - **Python Version:** 3.7
 - **Packages/Modules:** pandas, numpy, sklearn, folium, datetime, matplotlib, seaborn
 - **Data Sources:** https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8 (Historic Shootings), https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8 (YTD Shootings), https://www.wunderground.com/ (Historical Weather Data)
+# Relevant Findings
+## Overview of Dataset
+
