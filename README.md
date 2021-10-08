@@ -35,7 +35,7 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^6]
 ![Image](/images/dataset%20kde.png)
 [^7]
-![Image](/images/feature%creation.png)
+![Image](/images/feature%20creation.png)
 [^8]
 ![Image](/images/shootingsbydayofweek.png)
 [^9]
