@@ -29,7 +29,7 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^4]: The dataset is contains very little missing data overall, with every column having under 1% of data being composed of missing values. 
 
 ## Time Series Aggregations of Shootings 
-![Image](/images/days%20w/o%20shootings.png)
+![Image](dayswoshootings.png)
 [^5]
 ![Image](/images/dataset%20boxplot.png)
 [^6]
