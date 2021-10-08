@@ -16,5 +16,5 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 ## Overview of Dataset
 ![Image](/images/dataset.png)
 hello world [^1]
-
+[^1]:
 
