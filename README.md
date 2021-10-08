@@ -15,6 +15,7 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 # Relevant Findings
 ## Overview of Dataset
 ![Image](/images/dataset.png)
-hello world [^1]
-[^1]:
+[^1]
+
+![Image](/images/dataset type.png) 
 
