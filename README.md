@@ -109,7 +109,7 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 
 ## Murders From Shootings 
 
-![Image](/images2/nummurders.png)
+![Image](/images2/nummuders.png)
 [^26]
 ![Image](/images2/pctdyingseries.png)
 [^27]
@@ -117,9 +117,42 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^28]
 ![Image](/images2/murderdays.png)
 [^29]
-![Image](/images2/murdersmonth)
+![Image](/images2/murdersmonth.png)
 [^30]
-![Image](/images2/
+![Image](/images2/murdersbyyear.png)
+[^31]
+![Image](/images2/YTDmurders.png)
+[^32]
+
+[^26]: The total number of murders from shootings from 2006 to June 30th of 2021 were 4670.
+[^27]: Percentage of victims from shootings who died aggregated by year.
+[^28]: Graphical representation of the previous iamge. 
+[^29]: Total murders aggregated by day of the week.
+[^30]: Total murders aggregated by the month of the year. 
+[^31]: Total murders aggregated by year.
+[^32]: Murders up top June 30th, aggregated by year. 2021 is on pace to be one of the deadliest years seen since 2006. 
+
+## Location 
+
+![Image](/images2/shootingsbyboro.png)
+[^33]
+![Image](/images2/shootingspercapita.png)
+[^34]
+![Image](/images2/shootingsdest.png)
+[^35]
+![Image](/images2/deathspershootingloc.png)
+[^36]
+
+[^33]: Total number of shootings by NYC borough. 
+[^34]: Shootings per capita by NYC borough. 
+[^35]: Total number of shootings by type of location.
+[^36]: Deaths per shooting by location.
+
+
+
+
+
+
 
 
 
