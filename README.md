@@ -148,6 +148,27 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^35]: Total number of shootings by type of location.
 [^36]: Deaths per shooting by location.
 
+## Demographics 
+
+![Image](/images2/agepiechart.png)
+[^37]
+![Image](/images2/racepie.png)
+[^38]
+![Image](/images2/sexpiechart.png)
+[^39]
+![Image](/images2/contiage.png)
+[^40]
+![Image](/images2/continrace.png)
+[^41]
+![Image](/images2/contisex.png)
+[^42]
+
+[^37]: Pie chart breakdown of age for perpetrators of shootings. 
+[^38]: Pie chart breakdown of race for perpetrators of shootings. 
+[^39]: Pie chart breakdown of sex for perpetrators of shootings.
+[^40]: Contingency table for age of perpetrators vs age of victims of shootings. Contingency is based off ratios within each row. 
+[^41]: Contingency table for race of prepetrators vs race of vicitims of shootings. Top breakdown are actual numbers while the bottom table is based off ratios.
+[^42]: Contingency table for the sex of prepetrators vs sex of victims of shootings. Top breakdown are actual numbers while the bottom table is based off ratios.
 
 
 
