@@ -170,6 +170,13 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^41]: Contingency table for race of prepetrators vs race of vicitims of shootings. Top breakdown are actual numbers while the bottom table is based off ratios.
 [^42]: Contingency table for the sex of prepetrators vs sex of victims of shootings. Top breakdown are actual numbers while the bottom table is based off ratios.
 
+## Closing Remarks
+
+The media-hype frenzy surrounding gun violence in NYC is to say the least, somewhat justified. During the last decade, and in particular during the last five years, prior to 2020, NYC has seen some of the lowest rates of gun violence in its streets. The numbers in gun related crimes seen in 2020 and now 2021 are far from what is considered normal in the five-boroughs, especially considering the downward trend seen throughout the 2000s. While the problem has been indentified, the cause is still far from transparent. Several potential catalysts include, the COVID-19 pandemic which has in turn has negatively impacted key determinants of crime such as socio-economic status, mental health, education, etc. Another possible catalyst could be the lack of trust and consequently, precense of a police force in light of the George Floyd killing seen during the spring of 2020. While the cause and solution to the issue at hand is unfortunately far from tangible, a few things remain true. Gun violence disproportionately affects young black men living in crime-ridden pockets of the city, in particular Eastern Brooklyn and the Southern Bronx. The demographic most affected by the misfortunes seen in the modern world are sadly also being torn apart by gun violence. While catching a perpetrator of gun violence is far from easy, knowing when acts of gun violence are more likely to occur can offer an upper hand. The perfect conditions for a shooting to occur you may ask? A hot, July 4th weekend at 11 pm, location being a public housing building in East New York. Data seldom lies, however, it is always important to take a step back, detach from what the numbers are saying and empathize with what really is at stake here. Behind every victim of gun violence is a father, a mother, a son, a daugther, a friend or a loved one. Gun violence devastates families and traumatizes individuals. Gun violence leads to a seemingly never ending loop of retaliation and anger. While it is easy to look at this situation unfold from the sidelines and point fingers
+
+
+
+
 
 
 
