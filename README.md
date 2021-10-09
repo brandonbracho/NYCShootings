@@ -107,6 +107,20 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^24]: The predicted number of cumalative shootings in 2021 is about 1536.
 [^25]: The plot showing the trajectory of actual shootings in 2021, appended to the predicted shootings after June 30th. 
 
+## Murders From Shootings 
+
+![Image](/images2/nummurders.png)
+[^26]
+![Image](/images2/pctdyingseries.png)
+[^27]
+![Image](/images2/pctdyinggraph.png)
+[^28]
+![Image](/images2/murderdays.png)
+[^29]
+![Image](/images2/murdersmonth)
+[^30]
+![Image](/images2/
+
 
 
 
