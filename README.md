@@ -65,6 +65,56 @@ This project is part EDA (Exploratory Data Analysis) and part predcitive modelin
 [^13]: Heatmap showing concentration of shooting incidents across the five boroughs. 
 [^14]: Cluster map showing total number of shootings within a certain area. Visit http://nbviewer.org/github/brandonbracho/NYCShootings/blob/main/ShootingsNYC%281%29.ipynb for the interactive version of these maps.
 
+## Shooting Trends Among the Years
+
+![Image](/images/shootingtrends.png)
+[^15]
+![Image](/images/shootingsupto630.png)
+[^16]
+![Image](/images/currprevdiff.png)
+[^17]
+![Image](/images/shootingsgrowth.png)
+[^18]
+
+[^15]: Trends for the last 4 years plotted. 2021 is seeing more of a linear increase in shootings when compared to 2020 that saw exponential growth in the summer months. 
+[^16]: The amount of shootings up to June, 30th show that 2021 is on pace to be NYC's most violent year since before 2006. 
+[^17]: This dataframe shows the difference in shootings on a day-to-day basis when comparing 2020 to 2021.
+[^18]: The graphed representation of year-on-year percentage growth in number of shootings. 
+
+## Model Building/Predciting Total Number of Shootings in 2021
+
+
+![Image](/images/holfeature.png)
+[^19]
+![Image](/images/shootingsaganisttemp.png)
+[^20]
+![Image](/images/scraperdata.png)
+[^21]
+![Image](/images/modeldf.png)
+[^22]
+![Image](/images/modelfittingscore.png)
+[^23]
+![Image](/images2/predictednum.png)
+[^24]
+![Image](/images2/predictedplot.png)
+[^25]
+
+[^19]: A column depicting whether or not a day falls on a holiday is made. Using the results from, Reeping, Paul M, and David Hemenway (2020) along with a comparison of the average number of shootings on days that fall on holidays vs days that do not fall on holidays led me to include this in the feature space for the model. 
+[^20]: Along with the previos feature, the average temperature of a day will be included in the feature space. Citing Reeping, Paul M, and David Hemenway (2020) once again, there appears to be a positive correlation between the number of shootings in a given day and the average temperature. 
+[^21]: Dataframe imported from CSV file that was produced by the Historical Weather Web Scraper. 
+[^22]: The final dataframe that will be used to train and test our model. 
+[^23]: Using a Gradient Boosting Regressor from sklearn, the model is fitted using GridSearchCV to find the best parameters. The R^2 score is approximately .40
+[^24]: The predicted number of cumalative shootings in 2021 is about 1536.
+[^25]: The plot showing the trajectory of actual shootings in 2021, appended to the predicted shootings after June 30th. 
+
+
+
+
+
+
+
+
+
 
 
 
